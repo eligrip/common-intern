@@ -24,18 +24,18 @@ JOB_APP = {
     "first_name": "Eli",
     "last_name": "Gripenstraw",
     "email": "eligripenstraw@gmail.com",
-    "phone": "123-456-7890",
-    "org": "Self-Employed",
-    "resume": "resume.pdf",
+    "phone": "615-870-8489",
+    "org": "Vanderbilt University Medical Center",
+    "resume": "resume1.pdf",
     "resume_textfile": "resume_short.txt",
-    "linkedin": "https://www.linkedin.com/",
-    "website": "www.youtube.com",
-    "github": "https://github.com",
-    "twitter": "www.twitter.com",
-    "location": "San Francisco, California, United States",
-    "grad_month": '06',
-    "grad_year": '2021',
-    "university": "MIT" # if only o.O
+    "linkedin": "https://www.linkedin.com/in/eli-gripenstraw-07ba7a2aa/",
+    #"website": "www.youtube.com",
+   # "github": "https://github.com",
+   # "twitter": "www.twitter.com",
+    "location": "Nashville, Tennessee United States",
+    "grad_month": '05',
+    "grad_year": '2027',
+    "university": "Vanderbilt University" # if only o.O
 }
 
 # Greenhouse has a different application form structure than Lever, and thus must be parsed differently
@@ -102,10 +102,10 @@ def greenhouse(driver):
         pass
 
     # add website
-    try:
-        driver.find_element_by_xpath("//label[contains(.,'Website')]").send_keys(JOB_APP['website'])
-    except NoSuchElementException:
-        pass
+   # try:
+    #    driver.find_element_by_xpath("//label[contains(.,'Website')]").send_keys(JOB_APP['website'])
+   # except NoSuchElementException:
+   #     pass
 
     # add work authorization
     try:
@@ -131,15 +131,15 @@ def lever(driver):
 
     # socials
     driver.find_element_by_name('urls[LinkedIn]').send_keys(JOB_APP['linkedin'])
-    driver.find_element_by_name('urls[Twitter]').send_keys(JOB_APP['twitter'])
-    try: # try both versions
-        driver.find_element_by_name('urls[Github]').send_keys(JOB_APP['github'])
-    except NoSuchElementException:
-        try:
-            driver.find_element_by_name('urls[GitHub]').send_keys(JOB_APP['github'])
-        except NoSuchElementException:
-            pass
-    driver.find_element_by_name('urls[Portfolio]').send_keys(JOB_APP['website'])
+  #  driver.find_element_by_name('urls[Twitter]').send_keys(JOB_APP['twitter'])
+  #  try: # try both versions
+  #      driver.find_element_by_name('urls[Github]').send_keys(JOB_APP['github'])
+  #  except NoSuchElementException:
+    #    try:
+     #       driver.find_element_by_name('urls[GitHub]').send_keys(JOB_APP['github'])
+     #   except NoSuchElementException:
+    #        pass
+   # driver.find_element_by_name('urls[Portfolio]').send_keys(JOB_APP['website'])
 
     # add university
     try:
