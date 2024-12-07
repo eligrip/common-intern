@@ -21,9 +21,9 @@ URLS = [URL_g1, URL_l4, URL_l3, URL_l6, URL_l8, URL_l9]
 
 # Fill in this dictionary with your personal details!
 JOB_APP = {
-    "first_name": "Foo",
-    "last_name": "Bar",
-    "email": "test@test.com",
+    "first_name": "Eli",
+    "last_name": "Gripenstraw",
+    "email": "eligripenstraw@gmail.com",
     "phone": "123-456-7890",
     "org": "Self-Employed",
     "resume": "resume.pdf",
