@@ -17,8 +17,8 @@ import time # to sleep
 
 # fill this in with your job preferences!
 PREFERENCES = {
-    "position_title": "Software Engineer",
-    "location": "San Francisco, CA"
+    "position_title": "Machine Learning Intern",
+    "location": "Chicago"
 }
 
 # helper method to give user time to log into glassdoor
