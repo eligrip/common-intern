@@ -1,0 +1,61 @@
+
+ELI GRIPENSTRAW 
+Nashville | (615) 870-8489 | eligripenstraw@gmail.com  | Linkedin
+
+EDUCATION 
+
+Vanderbilt University	Nashville, TN
+B.S. in Computer Science with Minors in Data Science and History	August 2023 – May 2027
+3.82 GPA
+Relevant Courses: Program Design and Data Structures, Intermediate Software Design, Intro to Data Science.
+
+PROFESSIONAL EXPERIENCE
+
+
+Vanderbilt University Medical Center	Nashville, TN
+Computational Immunology Research Intern 	 May 2024 – Present
+Adapting a protein Large Language Model (LLM) to predict the fitness of Influenza variants in Python	 
+Utilizing domain adaptation and fine tuning techniques to accurately train the model on influenza variants
+Identifying and filtering data from various national databases in order to track individual Influenza variants
+
+Debate Drills	Remote
+ Instructor for online debate service	July 2024 – Present
+Lead online tutoring sessions with high school debate students
+Coach high school debate teams at in-person and virtual debate tournaments
+Research pressing international issues ranging from Turkey's involvement in NATO to blockchain development
+
+National Symposium for Debate	Bryn Mawr, PA
+Summer Counselor	June 2024 – July 2024
+Led section of high school debaters through drills and mentorship over two two-week sessions
+Created curriculum instructing students on increasingly advanced strategies in debate
+Accepted a year-round coaching position at the completion of camp 
+
+Jefferson’s	Brentwood, TN
+Waiter	May 2023 – August 2023
+Completed countless shifts to provide excellent customer service and respond actively to company objectives
+Coordinated and displayed communication skills in working with coworkers to handle large events and serving over forty tables
+
+LEADERSHIP AND EXTRACURRICULARS
+
+Rem on Campus	Nashville, TN
+Consultant 	 February 2024 – Present
+Advised nonprofit organization on market growth and student outreach 
+Applied Excel knowledge to automate handling of organizational clients to enable greater utilization of studio space for H.O.M.E.
+Updated the website design for A&M Marketplace, introducing a seamless approach to adding new products to the store's website
+
+Financial Modeling Club	Nashville, TN
+ Member	January 2024– Present
+Selected to join after multiple rounds of interviews in order to take an eight week intensive excel course
+Learned financial modeling in excel from experienced instructors through practice case studies
+
+Zeta Beta Tau Fraternity	Nashville, TN
+Treasurer	December 2024-December 2025
+Manage $250,000 budget, including cash flow management, dues collection, and vendor payments
+Serve on the executive committee responsible for leading fraternity meetings, sponsoring philanthropy, and organizing social events
+
+SKILLS 
+
+
+Programming Languages:  Java, Python, C++, SQL
+Tools: Git, Excel, RStudio, Regression, Clustering, Machine Learning Fine-Tuning,  Pandas, Financial Modeling
+Interests: Green Bay Packers, Arrested Development, The Wire, Flatland Cavalry, Latin American History
